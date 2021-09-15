@@ -1,2 +1,4 @@
 # to run the project:
 python app.py
+
+https://flask.palletsprojects.com/en/2.0.x/patterns/flashing/
